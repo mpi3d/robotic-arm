@@ -1,6 +1,6 @@
 Pièces à imprimer
 =================
-* [test](piece A)
++ [Adafruit](#pièce A)
 
 pièce A
 =======
