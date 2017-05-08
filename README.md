@@ -17,14 +17,13 @@ Pieces a imprimer
 STL
 ---
 
-bras robot
-**********
+### bras robot
+
 
 GCO
 ---
 
-bras robot
-**********
+### bras robot
 
 Programmes
 ==========
