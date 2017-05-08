@@ -33,7 +33,22 @@ Pieces a imprimer
 
 #### bras
 
++ [coude](#coude)
++ [poignet](#poignet)
++ [epaule](#epaule)
++ [attaches](#attaches)
+
+###### coude
+
+###### poignet
+
+###### epaule
+
+###### attaches
+
 #### main
+
+
 
 #### boite pi
 
