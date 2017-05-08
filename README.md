@@ -4,16 +4,19 @@ Bras robot
 Bras robot à imprimer à l'imprimante 3D comandé par rasbery pi, sens hat et PCA9685 programé en python. Qui fonctione avec des
 servo moteur.
 
+
 Sommaire
 ========
 
   + [Pieces a imprimer](#pieces-a-imprimer)
   + [Pogrammes](#programmes)
 
+
 Pieces a imprimer
 =================
 
 + [bras robot](#bras-robot)
+
 
 ### bras robot 
 
@@ -28,8 +31,8 @@ Pieces a imprimer
 + [plateformes](#plateformes)
 
 ##### bases
-
 ##### plateformes
+
 
 #### bras
 
@@ -42,14 +45,27 @@ Pieces a imprimer
 ###### poignet
 ###### epaule
 ###### attaches
+
+
 #### main
+
++ [cotes](#cotes)
++ [desus](#desus)
++ [desous](#desous)
+
+##### cotes
+##### desus
+##### desous
 
 
 #### boite pi
 
-##### rasbery pi
++ [rasbery pi](#rasbery-pi)
++ [pi sens hat](#pi-sens-hat)
 
+##### rasbery pi
 ##### pi sens hat
+
 
 Programmes
 ==========
