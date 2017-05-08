@@ -32,7 +32,7 @@ Pieces a imprimer
 
 ##### bases
 
-+ [base 1](#base_bras_robot_1_(x1).stl)
++ [base 1](#base-bras-robot-1-(x1).stl)
 + [base 2](#base_bras_robot_2_(x1).stl)
 + [base 3](#base_bras_robot_3_(x1).stl)
 
