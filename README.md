@@ -63,10 +63,10 @@ Pièces a imprimer
 
 ###### Epaule
 
-+ [epaule 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_1_(x1).stl)
-+ [epaule 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_2_(x1).stl)
-+ [epaule 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_droite_bras_robot_3_(x1).stl)
-+ [epaule 4](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_gauche_bras_robot_4_(x1).stl)
++ [épaule 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_1_(x1).stl)
++ [épaule 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_2_(x1).stl)
++ [épaule 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_droite_bras_robot_3_(x1).stl)
++ [épaule 4](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_gauche_bras_robot_4_(x1).stl)
 
 ###### Attaches
 
