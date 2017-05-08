@@ -131,9 +131,11 @@ Pieces a imprimer
 + [retour](#pièces-bras-robot)
 
 ##### rasbery pi
-+ [rasbery pi](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat_1.stl)+ [retour](#boite-pi)
++ [rasbery pi](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat_1.stl)
++ [retour](#boite-pi)
 ##### pi sens hat
-+ [pi sens hat](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat.stl)+ [retour](#boite-pi)
++ [pi sens hat](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat.stl)
++ [retour](#boite-pi)
 
 
 Programmes
