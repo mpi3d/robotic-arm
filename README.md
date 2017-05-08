@@ -31,7 +31,15 @@ Pieces a imprimer
 + [plateformes](#plateformes)
 
 ##### bases
+
++ []()
++ []()
++ []()
+
 ##### plateformes
+
++ []()
++ []()
 
 
 #### bras
@@ -42,9 +50,30 @@ Pieces a imprimer
 + [attaches](#attaches)
 
 ###### coude
+
++ []()
++ []()
++ []()
++ []()
+
 ###### poignet
+
++ []()
++ []()
+
 ###### epaule
+
++ []()
++ []()
++ []()
++ []()
+
 ###### attaches
+
++ []()
++ []()
++ []()
++ []()
 
 
 #### main
@@ -52,10 +81,30 @@ Pieces a imprimer
 + [cotes](#cotes)
 + [desus](#desus)
 + [desous](#desous)
++ [camera](#camera)
++ [pinces](#pinces)
 
 ##### cotes
+
++ []()
++ []()
+
 ##### desus
+
++ []()
+
 ##### desous
+
++ []()
+
+##### camera
+
++ []()
+
+##### pinces
+
++ []()
++ []()
 
 
 #### boite pi
@@ -64,7 +113,9 @@ Pieces a imprimer
 + [pi sens hat](#pi-sens-hat)
 
 ##### rasbery pi
++ []()
 ##### pi sens hat
++ []()
 
 
 Programmes
