@@ -13,16 +13,23 @@ Sommaire
 Pieces a imprimer
 =================
 
-+ [bras robot](bras-robot)
++ [bras robot](#bras-robot)
 
 ### bras robot 
 
-+ [base](base)
-+ [bras](bras)
-+ [main](main)
-+ [boite pi](boite-pi)
++ [base](#base)
++ [bras](#bras)
++ [main](#main)
++ [boite pi](#boite-pi)
 
 ####base
+
++ [bases](#bases)
++ [plateformes](#plateformes)
+
+#####bases
+
+#####plateformes
 
 ####bras
 
