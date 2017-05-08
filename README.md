@@ -7,7 +7,7 @@ Bras robot à imprimer à l'imprimante 3D comandé par Raspberry Pi, Sense hat e
 Sommaire
 ========
 
-  + [Pieces a imprimer](#pièces-a-imprimer)
+  + [Pièces a imprimer](#pièces-a-imprimer)
   + [Pogrammes](#programmes)
   + [sources](#sources)
 
