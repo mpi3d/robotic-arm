@@ -22,20 +22,20 @@ Pieces a imprimer
 + [main](#main)
 + [boite pi](#boite-pi)
 
-####base
+#### base
 
 + [bases](#bases)
 + [plateformes](#plateformes)
 
-#####bases
+##### bases
 
-#####plateformes
+##### plateformes
 
-####bras
+#### bras
 
-####main
+#### main
 
-####boite pi
+#### boite pi
 
 Programmes
 ==========
