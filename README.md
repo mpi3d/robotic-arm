@@ -15,10 +15,10 @@ Sommaire
 Pieces a imprimer
 =================
 
-+ [bras robot](#bras-robot)
++ [pièces bras robot](#pièces-bras-robot)
 
 
-### bras robot 
+### pièces bras robot 
 
 + [base](#base)
 + [bras](#bras)
