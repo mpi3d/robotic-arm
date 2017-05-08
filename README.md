@@ -32,7 +32,7 @@ Pieces a imprimer
 
 ##### bases
 
-+ [base 1](#bras-robot/pieces/base_bras_robot-1_(x1).stl)
++ [base 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base_bras_robot_1_(x1).stl)
 + [base 2](#bras-robot/pieces/base_bras_robot_2_(x1).stl)
 + [base 3](#bras-robot/pieces/base_bras_robot_3_(x1).stl)
 
