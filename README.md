@@ -32,15 +32,15 @@ Pièces a imprimer
 
 ##### Bases
 
-+ [base 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base_bras_robot_1_(x1).stl)
-+ [base 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base_bras_robot_2_(x1).stl)
++ [base 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base%20bras%20robot%201%20(x1).stl)
++ [base 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base%20bras%20robot%202%20(x1).stl)
 + [base 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base_bras_robot_3_(x1).stl)
++ [cercle](https://github.com/matthieu-59/bras-robot/blob/master/pieces/%20cercle%20bras%20robot%20(x1).stl)
 
 ##### Plateformes
 
 + [plateforme 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/plateforme_bras_robot_1_(x1).stl)
 + [plateforme 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/plateforme_bras_robot_2_(x1).stl)
-
 
 #### Bras
 
@@ -67,6 +67,7 @@ Pièces a imprimer
 + [épaule 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_2_(x1).stl)
 + [épaule 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_droite_bras_robot_3_(x1).stl)
 + [épaule 4](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_gauche_bras_robot_4_(x1).stl)
++ [épaule couvercle](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule%20couvercle%20(x2).stl)
 
 ###### Attaches
 
