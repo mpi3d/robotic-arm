@@ -36,6 +36,7 @@ Pièces a imprimer
 + [base 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base%20bras%20robot%202%20(x1).stl)
 + [base 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base_bras_robot_3_(x1).stl)
 + [cercle](https://github.com/matthieu-59/bras-robot/blob/master/pieces/%20cercle%20bras%20robot%20(x1).stl)
++ [jointure](https://github.com/matthieu-59/bras-robot/blob/master/pieces/jointure%20base.stl)
 
 ##### Plateformes
 
