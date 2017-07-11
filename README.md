@@ -109,14 +109,14 @@ Pièces a imprimer
 + [pince gauche](https://github.com/matthieu-59/bras-robot/blob/master/pieces/pince_gauche_bras_robot_(x1).stl)
 
 
-#### Boite pi
+### Boite pi
 
 + [raspberry pi](#raspberry-pi)
 + [pi sense hat](#pi-sense-hat)
 
-##### Raspberry pi
+#### Raspberry pi
 + [raspberry pi](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat_1.stl)
-##### Pi sense hat
+#### Pi sense hat
 + [pi sense hat](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat.stl)
 
 
@@ -124,6 +124,10 @@ Pièces a imprimer
 Programmes
 ==========
 
+### python comandes a savoir :
++ [python exemples](https://github.com/matthieu-59/Python)
++ [adafruit PCA9685 exemples](https://github.com/matthieu-59/Adafruit_CircuitPython_PCA9685)
++ [sense-hat exemples](https://github.com/matthieu-59/python-sense-hat)
 
 sources
 =======
