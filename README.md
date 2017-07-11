@@ -130,7 +130,7 @@ Programmes
 + [sense-hat exemples](https://github.com/matthieu-59/python-sense-hat)
 
 ### programes:
-+ [comande bras robot](https://github.com/matthieu-59/comande_bras_robot/blob/master/code.py)
++ [comande bras robot](https://github.com/matthieu-59/comande_bras_robot)
 
 sources
 =======
