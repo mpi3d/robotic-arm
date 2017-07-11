@@ -132,4 +132,7 @@ Programmes
 sources
 =======
 
-+ [instructables.com/id/3D-Printed-Robot-Arm/](http://www.instructables.com/id/3D-Printed-Robot-Arm/)
++ [www.instructables.com/id/3D-Printed-Robot-Arm/](http://www.instructables.com/id/3D-Printed-Robot-Arm/)
++ [github.com/RPi-Distro/python-sense-hat](https://github.com/RPi-Distro/python-sense-hat)
++ [github.com/geekcomputers/Python](https://github.com/geekcomputers/Python)
++ [github.com/adafruit/Adafruit_CircuitPython_PCA9685](https://github.com/adafruit/Adafruit_CircuitPython_PCA9685)
