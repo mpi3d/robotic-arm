@@ -114,6 +114,7 @@ Bras robot à imprimer à l'imprimante 3D comandé par Raspberry Pi, Sense hat e
 #### Raspberry pi
 
 + [Raspberry pi](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat_1.stl)
++ [bouchon](https://github.com/matthieu-59/bras_robot/blob/master/pieces/bouchon%20boite%20rasbperry.stl)
 
 #### Pi sense hat
 
