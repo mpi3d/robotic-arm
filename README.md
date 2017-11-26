@@ -1,22 +1,19 @@
-Bras robot
-==========
+# Bras robot
 
 Bras robot à imprimer à l'imprimante 3D comandé par Raspberry Pi, Sense hat et PCA9685 programé en Python. Qui fonctione avec des servo moteur.
+
 + [bras robot](https://github.com/matthieu-59/bras-robot/blob/master/pieces/bras%20robot%20assembl%C3%A9.stl)
 
-Sommaire
-========
+## Sommaire
 
   + [Pièces a imprimer](#pièces-a-imprimer)
   + [Pogrammes](#programmes)
   + [sources](#sources)
 
 
-Pièces a imprimer
-=================
+### Pièces a imprimer
 
 + [pièces bras robot](#pièces-bras-robot)
-
 
 ### Pièces bras robot 
 
@@ -50,19 +47,19 @@ Pièces a imprimer
 + [epaule](#epaule)
 + [attaches](#attaches)
 
-###### Coude
+##### Coude
 
 + [coude 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_gauche_bras_robot_1_(x1).stl)
 + [coude 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_droit_bras_robot_2_(x1).stl)
 + [coude 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_gauche_bras_robot_3_(x1).stl)
 + [coude 4](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_droit_bras_robot_4_(x1).stl)
 
-###### Poignet
+##### Poignet
 
 + [poignet 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/poignet_droit_bras_robot_1_(x1).stl)
 + [poignet 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/poignet_gauche_bras_robot_2_(x1).stl)
 
-###### Epaule
+##### Epaule
 
 + [épaule 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_1_(x1).stl)
 + [épaule 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_2_(x1).stl)
@@ -70,7 +67,7 @@ Pièces a imprimer
 + [épaule 4](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_gauche_bras_robot_4_(x1).stl)
 + [épaule couvercle](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule%20couvercle%20(x2).stl)
 
-###### Attaches
+##### Attaches
 
 + [petite attache 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/petite_atache_bras_robot_1_(x2).stl)
 + [petite attache 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/petite_atache_bras_robot_2_(x2).stl)
@@ -124,10 +121,7 @@ Pièces a imprimer
 Programmes
 ==========
 
-### python comandes a savoir :
-+ [python exemples](https://github.com/matthieu-59/Python)
-+ [adafruit PCA9685 exemples](https://github.com/matthieu-59/Adafruit_CircuitPython_PCA9685)
-+ [sense-hat exemples](https://github.com/matthieu-59/python-sense-hat)
+### Exemples :
 
 ### programes:
 + [comande bras robot](https://github.com/matthieu-59/comande_bras_robot)
@@ -138,6 +132,3 @@ sources
 =======
 
 + [www.instructables.com/id/3D-Printed-Robot-Arm/](http://www.instructables.com/id/3D-Printed-Robot-Arm/)
-+ [github.com/RPi-Distro/python-sense-hat](https://github.com/RPi-Distro/python-sense-hat)
-+ [github.com/geekcomputers/Python](https://github.com/geekcomputers/Python)
-+ [github.com/adafruit/Adafruit_CircuitPython_PCA9685](https://github.com/adafruit/Adafruit_CircuitPython_PCA9685)
