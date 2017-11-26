@@ -2,70 +2,70 @@
 
 Bras robot à imprimer à l'imprimante 3D comandé par Raspberry Pi, Sense hat et PCA9685 programé en Python. Qui fonctione avec des servo moteur.
 
-+ [bras robot](https://github.com/matthieu-59/bras-robot/blob/master/pieces/bras%20robot%20assembl%C3%A9.stl)
++ [Bras robot](https://github.com/matthieu-59/bras-robot/blob/master/pieces/bras%20robot%20assembl%C3%A9.stl)
 
 ## Sommaire
 
   + [Pièces a imprimer](#pièces-a-imprimer)
   + [Pogrammes](#programmes)
-  + [sources](#sources)
+  + [Sources](#sources)
 
 
 ### Pièces a imprimer
 
-+ [pièces bras robot](#pièces-bras-robot)
++ [Pièces bras robot](#pièces-bras-robot)
 
 ### Pièces bras robot 
 
-+ [base](#base)
-+ [bras](#bras)
-+ [main](#main)
-+ [boite pi](#boite-pi)
++ [Base](#base)
++ [Bras](#bras)
++ [Main](#main)
++ [Boite pi](#boite-pi)
 
 #### Base
 
-+ [bases](#bases)
-+ [plateformes](#plateformes)
++ [Bases](#bases)
++ [Plateformes](#plateformes)
 
 ##### Bases
 
-+ [base 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base%20bras%20robot%201%20(x1).stl)
-+ [base 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base%20bras%20robot%202%20(x1).stl)
-+ [base 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base_bras_robot_3_(x1).stl)
-+ [cercle](https://github.com/matthieu-59/bras-robot/blob/master/pieces/%20cercle%20bras%20robot%20(x1).stl)
-+ [jointure](https://github.com/matthieu-59/bras-robot/blob/master/pieces/jointure%20base.stl)
++ [Base 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base%20bras%20robot%201%20(x1).stl)
++ [Base 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base%20bras%20robot%202%20(x1).stl)
++ [Base 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base_bras_robot_3_(x1).stl)
++ [Cercle](https://github.com/matthieu-59/bras-robot/blob/master/pieces/%20cercle%20bras%20robot%20(x1).stl)
++ [Jointure](https://github.com/matthieu-59/bras-robot/blob/master/pieces/jointure%20base.stl)
 
 ##### Plateformes
 
-+ [plateforme 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/plateforme_bras_robot_1_(x1).stl)
-+ [plateforme 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/plateforme_bras_robot_2_(x1).stl)
++ [Plateforme 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/plateforme_bras_robot_1_(x1).stl)
++ [Plateforme 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/plateforme_bras_robot_2_(x1).stl)
 
 #### Bras
 
-+ [coude](#coude)
-+ [poignet](#poignet)
-+ [epaule](#epaule)
-+ [attaches](#attaches)
++ [Coude](#coude)
++ [Poignet](#poignet)
++ [Epaule](#epaule)
++ [Attaches](#attaches)
 
 ##### Coude
 
-+ [coude 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_gauche_bras_robot_1_(x1).stl)
-+ [coude 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_droit_bras_robot_2_(x1).stl)
-+ [coude 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_gauche_bras_robot_3_(x1).stl)
-+ [coude 4](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_droit_bras_robot_4_(x1).stl)
++ [Coude 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_gauche_bras_robot_1_(x1).stl)
++ [Coude 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_droit_bras_robot_2_(x1).stl)
++ [Coude 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_gauche_bras_robot_3_(x1).stl)
++ [Coude 4](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_droit_bras_robot_4_(x1).stl)
 
 ##### Poignet
 
-+ [poignet 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/poignet_droit_bras_robot_1_(x1).stl)
-+ [poignet 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/poignet_gauche_bras_robot_2_(x1).stl)
++ [Poignet 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/poignet_droit_bras_robot_1_(x1).stl)
++ [Poignet 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/poignet_gauche_bras_robot_2_(x1).stl)
 
 ##### Epaule
 
-+ [épaule 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_1_(x1).stl)
-+ [épaule 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_2_(x1).stl)
-+ [épaule 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_droite_bras_robot_3_(x1).stl)
-+ [épaule 4](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_gauche_bras_robot_4_(x1).stl)
-+ [épaule couvercle](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule%20couvercle%20(x2).stl)
++ [Épaule 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_1_(x1).stl)
++ [Épaule 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_2_(x1).stl)
++ [Épaule 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_droite_bras_robot_3_(x1).stl)
++ [Épaule 4](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_gauche_bras_robot_4_(x1).stl)
++ [Épaule couvercle](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule%20couvercle%20(x2).stl)
 
 ##### Attaches
 
