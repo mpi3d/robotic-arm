@@ -112,23 +112,24 @@ Bras robot à imprimer à l'imprimante 3D comandé par Raspberry Pi, Sense hat e
 + [pi sense hat](#pi-sense-hat)
 
 #### Raspberry pi
+
 + [raspberry pi](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat_1.stl)
+
 #### Pi sense hat
+
++ [joy stick](https://github.com/matthieu-59/bras_robot/blob/master/pieces/joy%20stick%20sense%20hat.stl)
++ [cache pixel](https://github.com/matthieu-59/bras_robot/blob/master/pieces/cache%20pixel%20sense%20hat.stl)
 + [pi sense hat](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat.stl)
 
+### Programmes
 
+#### Exemples :
 
-Programmes
-==========
-
-### Exemples :
-
-### programes:
+#### programes:
 + [comande bras robot](https://github.com/matthieu-59/comande_bras_robot)
 + [echec](https://github.com/matthieu-59/python_echec_bras_robot)
 + [DK](https://github.com/matthieu-59/DK)
 
-sources
-=======
+### sources
 
 + [www.instructables.com/id/3D-Printed-Robot-Arm/](http://www.instructables.com/id/3D-Printed-Robot-Arm/)
