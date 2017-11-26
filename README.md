@@ -69,67 +69,69 @@ Bras robot à imprimer à l'imprimante 3D comandé par Raspberry Pi, Sense hat e
 
 ##### Attaches
 
-+ [petite attache 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/petite_atache_bras_robot_1_(x2).stl)
-+ [petite attache 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/petite_atache_bras_robot_2_(x2).stl)
-+ [grande attache 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/grande_atache_bras_robot_1_(x2).stl)
-+ [grande attache 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/grande_atache_bras_robot_2_(x2).stl)
++ [Getite attache 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/petite_atache_bras_robot_1_(x2).stl)
++ [Getite attache 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/petite_atache_bras_robot_2_(x2).stl)
++ [Grande attache 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/grande_atache_bras_robot_1_(x2).stl)
++ [Grande attache 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/grande_atache_bras_robot_2_(x2).stl)
 
 
 #### Main
 
-+ [cotés](#cotés)
-+ [desus](#desus)
-+ [dessous](#dessous)
-+ [camera](#camera)
-+ [pinces](#pinces)
++ [Cotés](#cotés)
++ [Desus](#desus)
++ [Dessous](#dessous)
++ [Camera](#camera)
++ [Pinces](#pinces)
 
 ##### Cotés
 
-+ [coté droit](https://github.com/matthieu-59/bras-robot/blob/master/pieces/cote_droit_main_bras_robot_(x1).stl)
-+ [coté gauche](https://github.com/matthieu-59/bras-robot/blob/master/pieces/cote_gauche_main_bras_robot_(x1).stl)
++ [Coté droit](https://github.com/matthieu-59/bras-robot/blob/master/pieces/cote_droit_main_bras_robot_(x1).stl)
++ [Coté gauche](https://github.com/matthieu-59/bras-robot/blob/master/pieces/cote_gauche_main_bras_robot_(x1).stl)
 
 ##### Desus
 
-+ [desus](https://github.com/matthieu-59/bras-robot/blob/master/pieces/dessus_main_bras_robot_(x1).stl)
++ [Desus](https://github.com/matthieu-59/bras-robot/blob/master/pieces/dessus_main_bras_robot_(x1).stl)
 
 ##### Dessous
 
-+ [dessous](https://github.com/matthieu-59/bras-robot/blob/master/pieces/dessous_main_bras_robot_(x1).stl)
++ [Dessous](https://github.com/matthieu-59/bras-robot/blob/master/pieces/dessous_main_bras_robot_(x1).stl)
 
 ##### Camera
 
-+ [camera](https://github.com/matthieu-59/bras-robot/blob/master/pieces/suport_camera_(x1).stl)
++ [Camera](https://github.com/matthieu-59/bras-robot/blob/master/pieces/suport_camera_(x1).stl)
 
 ##### Pinces
 
-+ [pince droite](https://github.com/matthieu-59/bras-robot/blob/master/pieces/pince_droite_bras_robot_(x1).stl)
-+ [pince gauche](https://github.com/matthieu-59/bras-robot/blob/master/pieces/pince_gauche_bras_robot_(x1).stl)
++ [Pince droite](https://github.com/matthieu-59/bras-robot/blob/master/pieces/pince_droite_bras_robot_(x1).stl)
++ [Pince gauche](https://github.com/matthieu-59/bras-robot/blob/master/pieces/pince_gauche_bras_robot_(x1).stl)
 
 
 ### Boite pi
 
-+ [raspberry pi](#raspberry-pi)
-+ [pi sense hat](#pi-sense-hat)
++ [Raspberry pi](#raspberry-pi)
++ [Pi sense hat](#pi-sense-hat)
 
 #### Raspberry pi
 
-+ [raspberry pi](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat_1.stl)
++ [Raspberry pi](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat_1.stl)
 
 #### Pi sense hat
 
-+ [joy stick](https://github.com/matthieu-59/bras_robot/blob/master/pieces/joy%20stick%20sense%20hat.stl)
-+ [cache pixel](https://github.com/matthieu-59/bras_robot/blob/master/pieces/cache%20pixel%20sense%20hat.stl)
-+ [pi sense hat](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat.stl)
++ [Joy stick](https://github.com/matthieu-59/bras_robot/blob/master/pieces/joy%20stick%20sense%20hat.stl)
++ [Cache pixel](https://github.com/matthieu-59/bras_robot/blob/master/pieces/cache%20pixel%20sense%20hat.stl)
++ [Pi sense hat](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat.stl)
 
 ### Programmes
 
 #### Exemples :
 
-#### programes:
-+ [comande bras robot](https://github.com/matthieu-59/comande_bras_robot)
-+ [echec](https://github.com/matthieu-59/python_echec_bras_robot)
++ [Exemples](https://github.com/matthieu-59/Exemples)
+
+#### Programes:
++ [Comande bras robot](https://github.com/matthieu-59/comande_bras_robot)
++ [Echec](https://github.com/matthieu-59/python_echec_bras_robot)
 + [DK](https://github.com/matthieu-59/DK)
 
-### sources
+### Sources
 
-+ [www.instructables.com/id/3D-Printed-Robot-Arm/](http://www.instructables.com/id/3D-Printed-Robot-Arm/)
++ [Instructables.com/3D-Printed-Robot-Arm](http://www.instructables.com/id/3D-Printed-Robot-Arm/)
