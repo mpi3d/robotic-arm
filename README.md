@@ -10,7 +10,6 @@ Bras robot à imprimer à l'imprimante 3D comandé par Raspberry Pi, Sense hat e
   + [Pogrammes](#programmes)
   + [Sources](#sources)
 
-
 ### Pièces a imprimer
 
 + [Pièces bras robot](#pièces-bras-robot)
@@ -44,7 +43,7 @@ Bras robot à imprimer à l'imprimante 3D comandé par Raspberry Pi, Sense hat e
 
 + [Coude](#coude)
 + [Poignet](#poignet)
-+ [Epaule](#epaule)
++ [Épaule](#epaule)
 + [Attaches](#attaches)
 
 ##### Coude
@@ -59,7 +58,9 @@ Bras robot à imprimer à l'imprimante 3D comandé par Raspberry Pi, Sense hat e
 + [Poignet 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/poignet_droit_bras_robot_1_(x1).stl)
 + [Poignet 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/poignet_gauche_bras_robot_2_(x1).stl)
 
-##### Epaule
+##### 
+
+paule
 
 + [Épaule 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_1_(x1).stl)
 + [Épaule 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_2_(x1).stl)
@@ -73,7 +74,6 @@ Bras robot à imprimer à l'imprimante 3D comandé par Raspberry Pi, Sense hat e
 + [Getite attache 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/petite_atache_bras_robot_2_(x2).stl)
 + [Grande attache 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/grande_atache_bras_robot_1_(x2).stl)
 + [Grande attache 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/grande_atache_bras_robot_2_(x2).stl)
-
 
 #### Main
 
@@ -105,7 +105,6 @@ Bras robot à imprimer à l'imprimante 3D comandé par Raspberry Pi, Sense hat e
 + [Pince droite](https://github.com/matthieu-59/bras-robot/blob/master/pieces/pince_droite_bras_robot_(x1).stl)
 + [Pince gauche](https://github.com/matthieu-59/bras-robot/blob/master/pieces/pince_gauche_bras_robot_(x1).stl)
 
-
 ### Boite pi
 
 + [Raspberry pi](#raspberry-pi)
@@ -125,7 +124,7 @@ Bras robot à imprimer à l'imprimante 3D comandé par Raspberry Pi, Sense hat e
 ### Programmes
 
 + [Comande bras robot](https://github.com/matthieu-59/comande_bras_robot)
-+ [Echec](https://github.com/matthieu-59/python_echec_bras_robot)
++ [Échec](https://github.com/matthieu-59/python_echec_bras_robot)
 + [DK](https://github.com/matthieu-59/DK)
 
 ### Sources
