@@ -1,32 +1,32 @@
 # Bras robot
 
-Bras robot à imprimer à l'imprimante 3D commandé par Raspberry Pi, Sens hat et PCA9685 programmé en Python. Qui fonctionne avec des servo-moteurs.
+Bras robot à imprimer à l'imprimante 3D commandé par Raspberry Pi, Sense hat et PCA9685 programmé en Python. Qui fonctionne avec des servomoteurs.
 
 + [Bras robot](https://github.com/matthieu-59/bras-robot/blob/master/pieces/bras%20robot%20assembl%C3%A9.stl)
 
-## Sommaire
+## Sommaire :
 
-  + [Pièces a imprimer](#pièces-a-imprimer)
+  + [Pièces à imprimer](#pièces-a-imprimer)
   + [Pogrammes](#programmes)
   + [Sources](#sources)
 
-### Pièces a imprimer
+### Pièces à imprimer :
 
 + [Pièces bras robot](#pièces-bras-robot)
 
-### Pièces bras robot 
+#### Pièces bras robot :
 
 + [Base](#base)
 + [Bras](#bras)
 + [Main](#main)
 + [Boite pi](#boite-pi)
 
-#### Base
+##### Base :
 
 + [Bases](#bases)
 + [Plateformes](#plateformes)
 
-##### Bases
+###### Bases :
 
 + [Base 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base%20bras%20robot%201%20(x1).stl)
 + [Base 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base%20bras%20robot%202%20(x1).stl)
@@ -34,33 +34,31 @@ Bras robot à imprimer à l'imprimante 3D commandé par Raspberry Pi, Sens hat e
 + [Cercle](https://github.com/matthieu-59/bras-robot/blob/master/pieces/%20cercle%20bras%20robot%20(x1).stl)
 + [Jointure](https://github.com/matthieu-59/bras-robot/blob/master/pieces/jointure%20base.stl)
 
-##### Plateformes
+###### Plateformes :
 
 + [Plateforme 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/plateforme_bras_robot_1_(x1).stl)
 + [Plateforme 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/plateforme_bras_robot_2_(x1).stl)
 
-#### Bras
+##### Bras :
 
 + [Coude](#coude)
 + [Poignet](#poignet)
 + [Épaule](#epaule)
 + [Attaches](#attaches)
 
-##### Coude
+###### Coude :
 
 + [Coude 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_gauche_bras_robot_1_(x1).stl)
 + [Coude 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_droit_bras_robot_2_(x1).stl)
 + [Coude 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_gauche_bras_robot_3_(x1).stl)
 + [Coude 4](https://github.com/matthieu-59/bras-robot/blob/master/pieces/coude_droit_bras_robot_4_(x1).stl)
 
-##### Poignet
+###### Poignet :
 
 + [Poignet 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/poignet_droit_bras_robot_1_(x1).stl)
 + [Poignet 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/poignet_gauche_bras_robot_2_(x1).stl)
 
-##### 
-
-paule
+###### Épaule :
 
 + [Épaule 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_1_(x1).stl)
 + [Épaule 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_bras_robot_2_(x1).stl)
@@ -68,14 +66,14 @@ paule
 + [Épaule 4](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule_gauche_bras_robot_4_(x1).stl)
 + [Épaule couvercle](https://github.com/matthieu-59/bras-robot/blob/master/pieces/epaule%20couvercle%20(x2).stl)
 
-##### Attaches
+###### Attaches :
 
-+ [Getite attache 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/petite_atache_bras_robot_1_(x2).stl)
-+ [Getite attache 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/petite_atache_bras_robot_2_(x2).stl)
++ [Petite attache 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/petite_atache_bras_robot_1_(x2).stl)
++ [Petite attache 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/petite_atache_bras_robot_2_(x2).stl)
 + [Grande attache 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/grande_atache_bras_robot_1_(x2).stl)
 + [Grande attache 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/grande_atache_bras_robot_2_(x2).stl)
 
-#### Main
+##### Main :
 
 + [Cotés](#cotés)
 + [Desus](#desus)
@@ -83,50 +81,50 @@ paule
 + [Camera](#camera)
 + [Pinces](#pinces)
 
-##### Cotés
+###### Cotés :
 
 + [Coté droit](https://github.com/matthieu-59/bras-robot/blob/master/pieces/cote_droit_main_bras_robot_(x1).stl)
 + [Coté gauche](https://github.com/matthieu-59/bras-robot/blob/master/pieces/cote_gauche_main_bras_robot_(x1).stl)
 
-##### Desus
+###### Dessus :
 
-+ [Desus](https://github.com/matthieu-59/bras-robot/blob/master/pieces/dessus_main_bras_robot_(x1).stl)
++ [Dessus](https://github.com/matthieu-59/bras-robot/blob/master/pieces/dessus_main_bras_robot_(x1).stl)
 
-##### Dessous
+###### Dessous :
 
 + [Dessous](https://github.com/matthieu-59/bras-robot/blob/master/pieces/dessous_main_bras_robot_(x1).stl)
 
-##### Camera
+###### Camera :
 
 + [Camera](https://github.com/matthieu-59/bras-robot/blob/master/pieces/suport_camera_(x1).stl)
 
-##### Pinces
+###### Pinces :
 
 + [Pince droite](https://github.com/matthieu-59/bras-robot/blob/master/pieces/pince_droite_bras_robot_(x1).stl)
 + [Pince gauche](https://github.com/matthieu-59/bras-robot/blob/master/pieces/pince_gauche_bras_robot_(x1).stl)
 
-### Boite pi
+#### Boite pi :
 
 + [Raspberry pi](#raspberry-pi)
 + [Pi sense hat](#pi-sense-hat)
 
-#### Raspberry pi
+##### Raspberry pi :
 
 + [Raspberry pi](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat_1.stl)
 + [Bouchon](https://github.com/matthieu-59/bras_robot/blob/master/pieces/bouchon%20boite%20rasbperry.stl)
 
-#### Pi sense hat
+##### Pi sense hat :
 
 + [Joy stick](https://github.com/matthieu-59/bras_robot/blob/master/pieces/joy%20stick%20sense%20hat.stl)
-+ [Cache pixel](https://github.com/matthieu-59/bras_robot/blob/master/pieces/cache%20pixel%20sense%20hat.stl)
++ [Cache pixels](https://github.com/matthieu-59/bras_robot/blob/master/pieces/cache%20pixel%20sense%20hat.stl)
 + [Pi sense hat](https://github.com/matthieu-59/bras-robot/blob/master/pieces/boite_rasbery_-_sense_hat.stl)
 
-### Programmes
+### Programmes :
 
 + [Comande bras robot](https://github.com/matthieu-59/comande_bras_robot)
 + [Échec](https://github.com/matthieu-59/python_echec_bras_robot)
 + [DK](https://github.com/matthieu-59/DK)
 
-### Sources
+### Sources :
 
-+ [Instructables.com/3D-Printed-Robot-Arm](http://www.instructables.com/id/3D-Printed-Robot-Arm/)
++ [http://www.instructables.com/id/3D-Printed-Robot-Arm/](http://www.instructables.com/id/3D-Printed-Robot-Arm/)
