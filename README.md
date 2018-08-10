@@ -8,7 +8,6 @@ Bras robot à imprimer à l'imprimante 3D commandé par Raspberry Pi, Sense hat 
 
   + [Pièces à imprimer](#pièces-a-imprimer)
   + [Pogrammes](#programmes)
-  + [Sources](#sources)
 
 ### Pièces à imprimer :
 
@@ -124,7 +123,3 @@ Bras robot à imprimer à l'imprimante 3D commandé par Raspberry Pi, Sense hat 
 + [Comande bras robot](https://github.com/matthieu-59/comande_bras_robot)
 + [Échec](https://github.com/matthieu-59/python_echec_bras_robot)
 + [DK](https://github.com/matthieu-59/DK)
-
-### Sources :
-
-+ [http://www.instructables.com/id/3D-Printed-Robot-Arm/](http://www.instructables.com/id/3D-Printed-Robot-Arm/)
