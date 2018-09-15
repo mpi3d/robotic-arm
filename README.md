@@ -109,4 +109,8 @@ Bras robot à imprimer à l'imprimante 3D commandé par Raspberry Pi, Sense hat 
 + [Comande bras robot](https://github.com/MPi3D/comande_bras_robot)
 + [Échec](https://github.com/MPi3D/python_echec_bras_robot)
 + [Python](https://github.com/MPi3D/Python)
++ [Google assistant](https://github.com/MPi3D/Google_assistant)
+
+## Configurer son raspberry
+
 + [Commande raspberry](https://github.com/MPi3D/Commades_raspberry)
