@@ -90,7 +90,4 @@ Bras robot à imprimer à l'imprimante 3D commandé par Raspberry Pi 3 B+, Sense
 ## Programmes :
 
 + [Comande bras robot](https://github.com/MPi3D/comande_bras_robot)
-
-## Configurer son raspberry
-
-+ [Commande raspberry](https://github.com/MPi3D/Commades_raspberry)
++ [Echec bras robot](https://github.com/MPi3D/Echec_Bras_Robot)
