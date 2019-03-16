@@ -8,9 +8,6 @@ Bras robot à imprimer à l'imprimante 3D commandé par Raspberry Pi 3 B+, Sense
 
 ### Base :
 
-+ [Bases](#bases)
-+ [Plateformes](#plateformes)
-
 #### Bases :
 
 + [Base 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base%20bras%20robot%201%20(x1).stl)
@@ -25,11 +22,6 @@ Bras robot à imprimer à l'imprimante 3D commandé par Raspberry Pi 3 B+, Sense
 + [Plateforme 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/plateforme_bras_robot_2_(x1).stl)
 
 ### Bras :
-
-+ [Coude](#coude)
-+ [Poignet](#poignet)
-+ [Épaule](#epaule)
-+ [Attaches](#attaches)
 
 #### Coude :
 
@@ -60,12 +52,6 @@ Bras robot à imprimer à l'imprimante 3D commandé par Raspberry Pi 3 B+, Sense
 
 ### Main :
 
-+ [Cotés](#cotés)
-+ [Desus](#desus)
-+ [Dessous](#dessous)
-+ [Camera](#camera)
-+ [Pinces](#pinces)
-
 #### Cotés :
 
 + [Coté droit](https://github.com/matthieu-59/bras-robot/blob/master/pieces/cote_droit_main_bras_robot_(x1).stl)
@@ -89,9 +75,6 @@ Bras robot à imprimer à l'imprimante 3D commandé par Raspberry Pi 3 B+, Sense
 + [Pince gauche](https://github.com/matthieu-59/bras-robot/blob/master/pieces/pince_gauche_bras_robot_(x1).stl)
 
 ### Boite pi :
-
-+ [Raspberry pi](#raspberry-pi)
-+ [Pi sense hat](#pi-sense-hat)
 
 #### Raspberry pi :
 
