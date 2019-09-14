@@ -1,6 +1,6 @@
 # Bras robot
 
-Bras robot à imprimer à l'imprimante 3D commandé par Raspberry Pi 3 B+, Sense hat et PCA9685 programmé en Python. Qui fonctionne avec des servomoteurs.
+Robot arm to be printed on the 3D printer controlled by Raspberry Pi 3 B+, Sense hat and PCA9685 programmed in Python. It works with servomotors.
 
 + [Bras robot](https://github.com/matthieu-59/bras-robot/blob/master/pieces/bras%20robot%20assembl%C3%A9.stl)
 
