@@ -1,6 +1,6 @@
 # Robotic Arm
 
-Robot arm to be printed on the 3D printer controlled by Raspberry Pi 3 B+, Sense hat and PCA9685 programmed in Python. It works with servomotors
+Robotic arm to be printed on the 3D printer controlled by Raspberry Pi, PCA9685 for servomotors and programmed in Python
 
 + [Robotic arm](https://github.com/matthieu-59/bras-robot/blob/master/pieces/bras%20robot%20assembl%C3%A9.stl)
 
