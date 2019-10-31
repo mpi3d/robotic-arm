@@ -1,23 +1,18 @@
-# Bras robot
+# Robotic arm
 
 Robot arm to be printed on the 3D printer controlled by Raspberry Pi 3 B+, Sense hat and PCA9685 programmed in Python. It works with servomotors.
 
-+ [Bras robot](https://github.com/matthieu-59/bras-robot/blob/master/pieces/bras%20robot%20assembl%C3%A9.stl)
++ [Robotic arm](https://github.com/matthieu-59/bras-robot/blob/master/pieces/bras%20robot%20assembl%C3%A9.stl)
 
-## Pièces bras robot :
+## Robotic arm parts :
 
 ### Base :
-
-#### Bases :
 
 + [Base 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base%20bras%20robot%201%20(x1).stl)
 + [Base 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base%20bras%20robot%202%20(x1).stl)
 + [Base 3](https://github.com/matthieu-59/bras-robot/blob/master/pieces/base_bras_robot_3_(x1).stl)
 + [Cercle](https://github.com/matthieu-59/bras-robot/blob/master/pieces/%20cercle%20bras%20robot%20(x1).stl)
 + [Jointure](https://github.com/matthieu-59/bras-robot/blob/master/pieces/jointure%20base.stl)
-
-#### Plateformes :
-
 + [Plateforme 1](https://github.com/matthieu-59/bras-robot/blob/master/pieces/plateforme_bras_robot_1_(x1).stl)
 + [Plateforme 2](https://github.com/matthieu-59/bras-robot/blob/master/pieces/plateforme_bras_robot_2_(x1).stl)
 
