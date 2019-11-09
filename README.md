@@ -6,6 +6,14 @@ Inspired by [Instructables 3D Printed Robot Arm](https://www.instructables.com/i
 
 + [Robotic Arm](/Robotic_Arm.stl)
 
+## Shop
+
++ [Servo Motor MG995](https://fr.aliexpress.com/item/4000262871946.html?spm=a2g0o.productlist.0.0.1e54f457YkVWmc&algo_pvid=515a57b3-af73-4ba9-b203-d7ee074405a0&algo_expid=515a57b3-af73-4ba9-b203-d7ee074405a0-0&btsid=b448a455-33a2-4b5c-ba8a-ad575ac1cea7&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_52)
++ [Servo Motor MG90S](https://fr.aliexpress.com/item/32844869330.html?spm=a2g0o.productlist.0.0.10c3b39dSEfuih&algo_pvid=ca3bd9a6-5c79-42f7-9117-5b7ddb660131&algo_expid=ca3bd9a6-5c79-42f7-9117-5b7ddb660131-2&btsid=53f8afce-5ce4-4ca5-a17d-3f9a3c484e29&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_52)
++ [Raspberry Pi 3](https://fr.aliexpress.com/item/32900816535.html?spm=a2g0o.productlist.0.0.6901697373C4ao&algo_pvid=5e727eeb-f5a6-4f8f-bac4-fcea7b274117&algo_expid=5e727eeb-f5a6-4f8f-bac4-fcea7b274117-1&btsid=53036170-6d4c-4086-9f32-530b2c7ededa&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_52)
++ [Sense Hat](https://fr.aliexpress.com/item/4000071461742.html?spm=a2g0o.productlist.0.0.d02c5075JP75vo&algo_pvid=8e86a4b0-f689-44e7-ac94-cace8ec4547f&algo_expid=8e86a4b0-f689-44e7-ac94-cace8ec4547f-0&btsid=0da6419d-fe41-40b9-b392-363ac8417444&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_52)
++ [Raspberry Camera](https://fr.aliexpress.com/item/32726563700.html?spm=a2g0o.productlist.0.0.24ca4481nYCmOC&algo_pvid=b34cc129-9342-4862-9cf7-1bba7d62ee36&algo_expid=b34cc129-9342-4862-9cf7-1bba7d62ee36-1&btsid=cee97e4f-7909-4296-8934-9fef71f826c0&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_52)
+
 ## Robotic arm parts
 
 ### Base
