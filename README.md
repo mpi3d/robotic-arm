@@ -1,6 +1,8 @@
 # Robotic Arm
 
-[Robotic Arm](/Robotic_Arm.stl) to be printed on the 3D printer controlled by Raspberry Pi, PCA9685 for servomotors and programmed in Python
+Robotic Arm to be printed on the 3D printer controlled by Raspberry Pi, PCA9685 for servomotors and programmed in Python
+
++ [Robotic Arm](/Robotic_Arm.stl)
 
 ## Robotic arm parts
 
@@ -61,8 +63,6 @@
 + [Raspberry Camera Support](/Parts/Raspberry/Raspberry_Camera_Support.stl)
 
 ## Programmes
-
-+ []()
 
 + [Comande bras robot](https://github.com/MPi3D/comande_bras_robot)
 + [Echec bras robot](https://github.com/MPi3D/Echec_Bras_Robot)
