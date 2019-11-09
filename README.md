@@ -2,6 +2,8 @@
 
 Robotic Arm to be printed on the 3D printer controlled by Raspberry Pi, PCA9685 for servomotors and programmed in Python
 
+Inspired by [Instructables 3D Printed Robot Arm](https://www.instructables.com/id/3D-Printed-Robot-Arm/)
+
 + [Robotic Arm](/Robotic_Arm.stl)
 
 ## Robotic arm parts
