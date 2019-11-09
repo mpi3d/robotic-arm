@@ -1,8 +1,6 @@
 # Robotic Arm
 
-Robotic arm to be printed on the 3D printer controlled by Raspberry Pi, PCA9685 for servomotors and programmed in Python
-
-+ [Robotic Arm](/Robotic_Arm.stl)
+[Robotic Arm](/Robotic_Arm.stl) to be printed on the 3D printer controlled by Raspberry Pi, PCA9685 for servomotors and programmed in Python
 
 ## Robotic arm parts
 
@@ -30,6 +28,16 @@ Robotic arm to be printed on the 3D printer controlled by Raspberry Pi, PCA9685 
 + [Afterarm Top Left](/Parts/Afterarm/Afterarm_Top_Left.stl)
 + [Afterarm Top Attach](/Parts/Afterarm/Afterarm_Top_Attach.stl)
 + [Afterarm Cover](/Parts/Afterarm/Afterarm_Cover.stl)
+
+### Forearm
+
++ [Forearm Bottom Right](/Parts/Forearm/Forearm_Bottom_Right.stl)
++ [Forearm Bottom Left](/Parts/Forearm/Forearm_Bottom_Left.stl)
++ [Forearm Bottom Attach](/Parts/Forearm/Forearm_Bottom_Attach.stl)
++ [Forearm Top Right](/Parts/Forearm/Forearm_Top_Right.stl)
++ [Forearm Top Left](/Parts/Forearm/Forearm_Top_Left.stl)
++ [Forearm Top Attach](/Parts/Forearm/Forearm_Top_Attach.stl)
++ [Forearm Cover](/Parts/Forearm/Forearm_Cover.stl)
 
 ## Programmes
 
