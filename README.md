@@ -64,7 +64,7 @@ Inspired by [Instructables 3D Printed Robot Arm](https://www.instructables.com/i
 + [Raspberry Case Plug](/Parts/Raspberry/Raspberry_Case_Plug.stl)
 + [Raspberry Camera Support](/Parts/Raspberry/Raspberry_Camera_Support.stl)
 
-## Programmes
+## Programs
 
-+ [Comande bras robot](https://github.com/MPi3D/comande_bras_robot)
-+ [Echec bras robot](https://github.com/MPi3D/Echec_Bras_Robot)
++ [Robotic Arm Control](/MPi3D/Robotic_Arm_Control)
++ [Robotic Arm Chess](/MPi3D/Robotic_Arm_Chess)
