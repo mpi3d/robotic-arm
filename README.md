@@ -39,6 +39,18 @@
 + [Forearm Top Attach](/Parts/Forearm/Forearm_Top_Attach.stl)
 + [Forearm Cover](/Parts/Forearm/Forearm_Cover.stl)
 
+### Hand
+
++ [Hand Bottom](/Parts/Hand/Hand_Bottom.stl)
++ [Hand Right](/Parts/Hand/Hand_Right.stl)
++ [Hand Left](/Parts/Hand/Hand_Left.stl)
++ [Hand Top](/Parts/Hand/Hand_Top.stl)
+
+### Wrench
+
++ [Wrench Right](/Parts/Wrench/Wrench_Right.stl)
++ [Wrench Left](/Parts/Wrench/Wrench_Left.stl)
+
 ## Programmes
 
 + []()
