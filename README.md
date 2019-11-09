@@ -8,11 +8,6 @@ Robotic arm to be printed on the 3D printer controlled by Raspberry Pi, PCA9685 
 
 ### Base
 
-![GitHub Logo](/Parts/Base/Base Back.stl)
-+ []()
-+ []()
-+ []()
-
 ## Programmes
 
 + [Comande bras robot](https://github.com/MPi3D/comande_bras_robot)
