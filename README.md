@@ -8,7 +8,7 @@ Robotic arm to be printed on the 3D printer controlled by Raspberry Pi, PCA9685 
 
 ### Base
 
-+ [test](Robotic_Arm/Parts/Base/Base Back.stl)
+![GitHub Logo](/Parts/Base/Base Back.stl)
 + []()
 + []()
 + []()
