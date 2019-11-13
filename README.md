@@ -31,15 +31,15 @@ Inspired by [Instructables 3D Printed Robot Arm](https://www.instructables.com/i
 + [Rotor Left](/Parts/Rotor/Rotor_Left.stl)
 + [Rotor Join](/Parts/Rotor/Rotor_Join.stl)
 
-### Afterarm
+### Upperarm
 
-+ [Afterarm Bottom Right](/Parts/Afterarm/Afterarm_Bottom_Right.stl)
-+ [Afterarm Bottom Left](/Parts/Afterarm/Afterarm_Bottom_Left.stl)
-+ [Afterarm Bottom Attach](/Parts/Afterarm/Afterarm_Bottom_Attach.stl)
-+ [Afterarm Top Right](/Parts/Afterarm/Afterarm_Top_Right.stl)
-+ [Afterarm Top Left](/Parts/Afterarm/Afterarm_Top_Left.stl)
-+ [Afterarm Top Attach](/Parts/Afterarm/Afterarm_Top_Attach.stl)
-+ [Afterarm Cover](/Parts/Afterarm/Afterarm_Cover.stl)
++ [Upperarm Bottom Right](/Parts/Upperarm/Upperarm_Bottom_Right.stl)
++ [Upperarm Bottom Left](/Parts/Upperarm/Upperarm_Bottom_Left.stl)
++ [Upperarm Bottom Attach](/Parts/Upperarm/Upperarm_Bottom_Attach.stl)
++ [Upperarm Top Right](/Parts/Upperarm/Upperarm_Top_Right.stl)
++ [Upperarm Top Left](/Parts/Upperarm/Upperarm_Top_Left.stl)
++ [Upperarm Top Attach](/Parts/Upperarm/Upperarm_Top_Attach.stl)
++ [Upperarm Cover](/Parts/Upperarm/Upperarm_Cover.stl)
 
 ### Forearm
 
