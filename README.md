@@ -14,7 +14,7 @@ Inspired by [Instructables 3D Printed Robot Arm](https://www.instructables.com/i
 + [Raspberry Pi 3](https://fr.aliexpress.com/item/32900816535.html?spm=a2g0o.productlist.0.0.6901697373C4ao&algo_pvid=5e727eeb-f5a6-4f8f-bac4-fcea7b274117&algo_expid=5e727eeb-f5a6-4f8f-bac4-fcea7b274117-1&btsid=53036170-6d4c-4086-9f32-530b2c7ededa&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_52)
 + [Raspberry Camera](https://fr.aliexpress.com/item/32726563700.html?spm=a2g0o.productlist.0.0.24ca4481nYCmOC&algo_pvid=b34cc129-9342-4862-9cf7-1bba7d62ee36&algo_expid=b34cc129-9342-4862-9cf7-1bba7d62ee36-1&btsid=cee97e4f-7909-4296-8934-9fef71f826c0&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_52)
 
-## Robotic arm parts
+## Robotic Arm Parts
 
 ### Base
 
