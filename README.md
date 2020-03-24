@@ -73,4 +73,3 @@ Inspired by [Instructables 3D Printed Robot Arm](https://www.instructables.com/i
 ## Programs
 
 + [Robotic Arm Control](https://github.com/MPi3D/Robotic_Arm_Control)
-+ [Robotic Arm Chess](https://github.com/MPi3D/Robotic_Arm_Chess)
