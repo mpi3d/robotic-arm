@@ -1,10 +1,10 @@
 # Robotic Arm
 
-[Robotic Arm](/Robotic_Arm.stl) to be printed on a 3D printer controlled by Raspberry Pi, PCA9685 for servomotors. Programmed in Python
+[Robotic Arm](/robotic_arm.stl) to be printed on a 3D printer controlled by Raspberry Pi, PCA9685 for servomotors. Programmed in Python
 
 Inspired by [Instructables 3D Printed Robot Arm](https://www.instructables.com/id/3D-Printed-Robot-Arm/)
 
-[![Robotic Arm](/Robotic_Arm.jpg)](/Robotic_Arm.stl)
+[![Robotic Arm](/robotic_arm.jpg)](/robotic_arm.stl)
 
 ## Shop
 
@@ -16,60 +16,60 @@ Inspired by [Instructables 3D Printed Robot Arm](https://www.instructables.com/i
 
 ### Base
 
-+ [Base Bottom](/Parts/Base/Base_Bottom.stl)
-+ [Base Top](/Parts/Base/Base_Top.stl)
-+ [Base Back](/Parts/Base/Base_Back.stl)
-+ [Base Join](/Parts/Base/Base_Join.stl)
++ [Base Bottom](/parts/base/base_bottom.stl)
++ [Base Top](/parts/base/base_top.stl)
++ [Base Back](/parts/base/base_back.stl)
++ [Base Join](/parts/base/base_join.stl)
 
 ### Rotor
 
-+ [Rotor Bottom](/Parts/Rotor/Rotor_Bottom.stl)
-+ [Rotor Top](/Parts/Rotor/Rotor_Top.stl)
-+ [Rotor Right](/Parts/Rotor/Rotor_Right.stl)
-+ [Rotor Left](/Parts/Rotor/Rotor_Left.stl)
-+ [Rotor Join](/Parts/Rotor/Rotor_Join.stl)
++ [Rotor Bottom](/parts/rotor/rotor_bottom.stl)
++ [Rotor Top](/parts/rotor/rotor_top.stl)
++ [Rotor Right](/parts/rotor/rotor_right.stl)
++ [Rotor Left](/parts/rotor/rotor_left.stl)
++ [Rotor Join](/parts/rotor/rotor_join.stl)
 
 ### Upperarm
 
-+ [Upperarm Bottom Right](/Parts/Upperarm/Upperarm_Bottom_Right.stl)
-+ [Upperarm Bottom Left](/Parts/Upperarm/Upperarm_Bottom_Left.stl)
-+ [Upperarm Bottom Attach](/Parts/Upperarm/Upperarm_Bottom_Attach.stl)
-+ [Upperarm Top Right](/Parts/Upperarm/Upperarm_Top_Right.stl)
-+ [Upperarm Top Left](/Parts/Upperarm/Upperarm_Top_Left.stl)
-+ [Upperarm Top Attach](/Parts/Upperarm/Upperarm_Top_Attach.stl)
-+ [Upperarm Cover](/Parts/Upperarm/Upperarm_Cover.stl)
++ [Upperarm Bottom Right](/parts/upperarm/upperarm_bottom_right.stl)
++ [Upperarm Bottom Left](/parts/upperarm/upperarm_bottom_left.stl)
++ [Upperarm Bottom Attach](/parts/upperarm/upperarm_bottom_attach.stl)
++ [Upperarm Top Right](/parts/upperarm/upperarm_top_right.stl)
++ [Upperarm Top Left](/parts/upperarm/upperarm_top_left.stl)
++ [Upperarm Top Attach](/parts/upperarm/upperarm_top_attach.stl)
++ [Upperarm Cover](/parts/upperarm/upperarm_cover.stl)
 
 ### Forearm
 
-+ [Forearm Bottom Right](/Parts/Forearm/Forearm_Bottom_Right.stl)
-+ [Forearm Bottom Left](/Parts/Forearm/Forearm_Bottom_Left.stl)
-+ [Forearm Bottom Attach](/Parts/Forearm/Forearm_Bottom_Attach.stl)
-+ [Forearm Top Right](/Parts/Forearm/Forearm_Top_Right.stl)
-+ [Forearm Top Left](/Parts/Forearm/Forearm_Top_Left.stl)
-+ [Forearm Top Attach](/Parts/Forearm/Forearm_Top_Attach.stl)
-+ [Forearm Cover](/Parts/Forearm/Forearm_Cover.stl)
++ [Forearm Bottom Right](/parts/forearm/forearm_bottom_right.stl)
++ [Forearm Bottom Left](/parts/forearm/forearm_bottom_left.stl)
++ [Forearm Bottom Attach](/parts/forearm/forearm_bottom_attach.stl)
++ [Forearm Top Right](/parts/forearm/forearm_top_right.stl)
++ [Forearm Top Left](/parts/forearm/forearm_top_left.stl)
++ [Forearm Top Attach](/parts/forearm/forearm_top_attach.stl)
++ [Forearm Cover](/parts/forearm/forearm_cover.stl)
 
 ### Hand
 
-+ [Hand Bottom](/Parts/Hand/Hand_Bottom.stl)
-+ [Hand Right](/Parts/Hand/Hand_Right.stl)
-+ [Hand Left](/Parts/Hand/Hand_Left.stl)
-+ [Hand Top](/Parts/Hand/Hand_Top.stl)
++ [Hand Bottom](/parts/hand/hand_bottom.stl)
++ [Hand Right](/parts/hand/hand_right.stl)
++ [Hand Left](/parts/hand/hand_left.stl)
++ [Hand Top](/parts/hand/hand_top.stl)
 
 ### Wrench
 
-+ [Wrench Right](/Parts/Wrench/Wrench_Right.stl)
-+ [Wrench Left](/Parts/Wrench/Wrench_Left.stl)
++ [Wrench Right](/parts/wrench/wrench_right.stl)
++ [Wrench Left](/parts/wrench/wrench_left.stl)
 
 ### Raspberry
 
-+ [Raspberry Case Bottom](/Parts/Raspberry/Raspberry_Case_Bottom.stl)
-+ [Raspberry Case Top](/Parts/Raspberry/Raspberry_Case_Top.stl)
-+ [Raspberry Case Joystick](/Parts/Raspberry/Raspberry_Case_Joystick.stl)
-+ [Raspberry Case Display](/Parts/Raspberry/Raspberry_Case_Display.stl)
-+ [Raspberry Case Plug](/Parts/Raspberry/Raspberry_Case_Plug.stl)
-+ [Raspberry Camera Support](/Parts/Raspberry/Raspberry_Camera_Support.stl)
++ [Raspberry Case Bottom](/parts/raspberry/raspberry_case_bottom.stl)
++ [Raspberry Case Top](/parts/raspberry/raspberry_case_top.stl)
++ [Raspberry Case Joystick](/parts/raspberry/raspberry_case_joystick.stl)
++ [Raspberry Case Display](/parts/raspberry/raspberry_case_display.stl)
++ [Raspberry Case Plug](/parts/raspberry/raspberry_case_plug.stl)
++ [Raspberry Camera Support](/parts/raspberry/raspberry_camera_support.stl)
 
 ## Programs
 
-+ [Robotic Arm Control](https://github.com/MPi3D/Robotic_Arm_Control)
++ [Robotic Arm Control](~/Robotic_Arm_Control)
