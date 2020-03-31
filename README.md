@@ -1,8 +1,8 @@
 # Robotic Arm
 
-[Robotic Arm](/robotic_arm.stl) to be printed on a 3D printer controlled by Raspberry Pi, PCA9685 for servomotors. Programmed in Python
+[Robotic Arm](/robotic_arm.stl) to be printed on a 3D printer controlled by Raspberry Pi, PCA9685 for servomotors. Programmed in Python.
 
-Inspired by [Instructables 3D Printed Robot Arm](https://www.instructables.com/id/3D-Printed-Robot-Arm/)
+Inspired by [Instructables 3D Printed Robot Arm](https://www.instructables.com/id/3D-Printed-Robot-Arm/).
 
 [![Robotic Arm](/robotic_arm.jpg)](/robotic_arm.stl)
 
